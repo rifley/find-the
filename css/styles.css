@@ -1,0 +1,13 @@
+#levelOneKey {
+  cursor: crosshair;
+}
+
+#levelOneKey:hover {
+  cursor: crosshair;
+  color: crimson;
+
+}
+
+.levelTwo {
+  display: none;
+}
